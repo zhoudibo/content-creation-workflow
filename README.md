@@ -1,8 +1,13 @@
 # Content Creation Workflow · 内容创作工作流
 
+> [!IMPORTANT]
+> **本仓库的方法论已经并入新版 [`$package-cn-content`](https://github.com/zhoudibo/codex-wechat-xiaohongshu-douyin-skill)。**
+>
+> 请优先使用新版 Skill。它在保留选题、叙事、标题与可发现性方法的基础上，增加了微信公众号、小红书、抖音的平台化适配、敏感信息检查、视觉一致性校验和安全交付工具。本仓库作为历史方法说明保留，不再作为独立 Skill 入口维护，避免两个入口同时触发或产生规则冲突。
+
 > 公众号 + 小红书 AI 创作指南 · 从选题到发布的完整流程
 
-[English](README_EN.md) · [公众号创作](#公众号文章创作) · [小红书创作](#小红书图文创作) · [配图规范](#配图规范) · [发布检查](#发布检查清单)
+[新版 Skill](https://github.com/zhoudibo/codex-wechat-xiaohongshu-douyin-skill) · [公众号创作](#公众号文章创作) · [小红书创作](#小红书图文创作) · [配图规范](#配图规范) · [发布检查](#发布检查清单)
 
 ---
 
